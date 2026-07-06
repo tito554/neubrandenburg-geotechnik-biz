@@ -1,0 +1,41 @@
+# Geotechnik — Neubrandenburg
+
+> Geotechnical engineering services in Neubrandenburg, Deutschland.
+
+## Services
+- [Anker](https://neubrandenburg.geotechnik.biz/anker/)
+- [Aushub](https://neubrandenburg.geotechnik.biz/aushub/)
+- [Bodenverbesserung](https://neubrandenburg.geotechnik.biz/bodenverbesserung/)
+- [Cbr Strasse](https://neubrandenburg.geotechnik.biz/cbr-strasse/)
+- [Cpt Versuch](https://neubrandenburg.geotechnik.biz/cpt-versuch/)
+- [Flexibler Belag](https://neubrandenburg.geotechnik.biz/flexibler-belag/)
+- [Fundamente](https://neubrandenburg.geotechnik.biz/fundamente/)
+- [Geophysik](https://neubrandenburg.geotechnik.biz/geophysik/)
+- [Grundungen](https://neubrandenburg.geotechnik.biz/grundungen/)
+- [Hange](https://neubrandenburg.geotechnik.biz/hange/)
+- [Injektionen](https://neubrandenburg.geotechnik.biz/injektionen/)
+- [Labor](https://neubrandenburg.geotechnik.biz/labor/)
+- [Labor In Situ](https://neubrandenburg.geotechnik.biz/labor-in-situ/)
+- [Pfahle](https://neubrandenburg.geotechnik.biz/pfahle/)
+- [Plattendruckversuch](https://neubrandenburg.geotechnik.biz/plattendruckversuch/)
+- [Ruttelverdichtung](https://neubrandenburg.geotechnik.biz/ruttelverdichtung/)
+- [Sandkegel Dichte](https://neubrandenburg.geotechnik.biz/sandkegel-dichte/)
+- [Schurfgruben](https://neubrandenburg.geotechnik.biz/schurfgruben/)
+- [Seismik](https://neubrandenburg.geotechnik.biz/seismik/)
+- [Seismische Mikrozonierung](https://neubrandenburg.geotechnik.biz/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://neubrandenburg.geotechnik.biz/seismische-refraktion/)
+- [Starrer Belag](https://neubrandenburg.geotechnik.biz/starrer-belag/)
+- [Strassenbau](https://neubrandenburg.geotechnik.biz/strassenbau/)
+- [Tiefe Aushube](https://neubrandenburg.geotechnik.biz/tiefe-aushube/)
+- [Triaxialversuch](https://neubrandenburg.geotechnik.biz/triaxialversuch/)
+- [Untersuchung](https://neubrandenburg.geotechnik.biz/untersuchung/)
+- [Verflussigung](https://neubrandenburg.geotechnik.biz/verflussigung/)
+- [Weichbodentunnel](https://neubrandenburg.geotechnik.biz/weichbodentunnel/)
+- [Widerstand](https://neubrandenburg.geotechnik.biz/widerstand/)
+
+## Contact
+- Website: https://neubrandenburg.geotechnik.biz/
+
+## About
+This site provides geotechnical engineering services in Neubrandenburg, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
